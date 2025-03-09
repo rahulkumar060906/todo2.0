@@ -24,7 +24,7 @@ The webpage will feature an intuitive and user-friendly interface, ensuring that
 ### Technology Stack
 
 - **Frontend**: Built with HTML, CSS, and JavaScript to ensure a responsive and interactive user experience.
-- **Database**: For robust data storage, a lightweight option like SQLite or localStorage will effectively manage tasks and their statuses.
+- **Database**: For robust data storage, a localStorage will effectively manage tasks and their statuses.
 
 ### Conclusion
 
